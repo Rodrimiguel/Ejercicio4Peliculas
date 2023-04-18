@@ -1,0 +1,93 @@
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\bin\Debug\net7.0\appsettings.Development.json
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\bin\Debug\net7.0\appsettings.json
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\bin\Debug\net7.0\EjercicioPeliculas.staticwebassets.runtime.json
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\bin\Debug\net7.0\EjercicioPeliculas.exe
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\bin\Debug\net7.0\EjercicioPeliculas.deps.json
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\bin\Debug\net7.0\EjercicioPeliculas.runtimeconfig.json
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\bin\Debug\net7.0\EjercicioPeliculas.dll
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\bin\Debug\net7.0\EjercicioPeliculas.pdb
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\EjercicioPeliculas.csproj.AssemblyReference.cache
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\EjercicioPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\EjercicioPeliculas.AssemblyInfoInputs.cache
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\EjercicioPeliculas.AssemblyInfo.cs
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\EjercicioPeliculas.csproj.CoreCompileInputs.cache
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\EjercicioPeliculas.MvcApplicationPartsAssemblyInfo.cache
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\EjercicioPeliculas.RazorAssemblyInfo.cache
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\EjercicioPeliculas.RazorAssemblyInfo.cs
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.EjercicioPeliculas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.build.EjercicioPeliculas.props
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EjercicioPeliculas.props
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EjercicioPeliculas.props
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\staticwebassets.build.json
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\staticwebassets.development.json
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\scopedcss\bundle\EjercicioPeliculas.styles.css
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\scopedcss\projectbundle\EjercicioPeliculas.bundle.scp.css
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\EjercicioPeliculas.dll
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\refint\EjercicioPeliculas.dll
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\EjercicioPeliculas.pdb
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\EjercicioPeliculas.genruntimeconfig.cache
+D:\Santiago\Trabajo\ISTEA\Proyectos y Trabajos\Herramientas de Programación\EjercicioPeliculas\obj\Debug\net7.0\ref\EjercicioPeliculas.dll
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\bin\Debug\net7.0\appsettings.json
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\bin\Debug\net7.0\EjercicioPeliculas.staticwebassets.runtime.json
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\bin\Debug\net7.0\EjercicioPeliculas.exe
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\bin\Debug\net7.0\EjercicioPeliculas.deps.json
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\bin\Debug\net7.0\EjercicioPeliculas.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\bin\Debug\net7.0\EjercicioPeliculas.dll
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\bin\Debug\net7.0\EjercicioPeliculas.pdb
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\EjercicioPeliculas.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\EjercicioPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\EjercicioPeliculas.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\EjercicioPeliculas.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\EjercicioPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\EjercicioPeliculas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\EjercicioPeliculas.RazorAssemblyInfo.cache
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\EjercicioPeliculas.RazorAssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\staticwebassets\msbuild.EjercicioPeliculas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\staticwebassets\msbuild.build.EjercicioPeliculas.props
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EjercicioPeliculas.props
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EjercicioPeliculas.props
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\scopedcss\bundle\EjercicioPeliculas.styles.css
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\scopedcss\projectbundle\EjercicioPeliculas.bundle.scp.css
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\EjercicioPeliculas.dll
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\refint\EjercicioPeliculas.dll
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\EjercicioPeliculas.pdb
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\EjercicioPeliculas.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\herramientas-de-programacion-main\Clase4\EjercicioPeliculasClase4\obj\Debug\net7.0\ref\EjercicioPeliculas.dll
+C:\Users\Rodrigo\Desktop\Clase4Movies\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rodrigo\Desktop\Clase4Movies\bin\Debug\net7.0\appsettings.json
+C:\Users\Rodrigo\Desktop\Clase4Movies\bin\Debug\net7.0\EjercicioPeliculas.staticwebassets.runtime.json
+C:\Users\Rodrigo\Desktop\Clase4Movies\bin\Debug\net7.0\EjercicioPeliculas.exe
+C:\Users\Rodrigo\Desktop\Clase4Movies\bin\Debug\net7.0\EjercicioPeliculas.deps.json
+C:\Users\Rodrigo\Desktop\Clase4Movies\bin\Debug\net7.0\EjercicioPeliculas.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\Clase4Movies\bin\Debug\net7.0\EjercicioPeliculas.dll
+C:\Users\Rodrigo\Desktop\Clase4Movies\bin\Debug\net7.0\EjercicioPeliculas.pdb
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\EjercicioPeliculas.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\EjercicioPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\EjercicioPeliculas.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\EjercicioPeliculas.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\EjercicioPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\EjercicioPeliculas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\EjercicioPeliculas.RazorAssemblyInfo.cache
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\EjercicioPeliculas.RazorAssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\staticwebassets\msbuild.EjercicioPeliculas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\staticwebassets\msbuild.build.EjercicioPeliculas.props
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EjercicioPeliculas.props
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EjercicioPeliculas.props
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\scopedcss\bundle\EjercicioPeliculas.styles.css
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\scopedcss\projectbundle\EjercicioPeliculas.bundle.scp.css
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\EjercicioPeliculas.dll
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\refint\EjercicioPeliculas.dll
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\EjercicioPeliculas.pdb
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\EjercicioPeliculas.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\Clase4Movies\obj\Debug\net7.0\ref\EjercicioPeliculas.dll
